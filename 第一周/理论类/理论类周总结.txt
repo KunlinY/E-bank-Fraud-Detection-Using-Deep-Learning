@@ -1,0 +1,14 @@
+A survey of transfer learning
+综述，迁移学习的方法可以参考这篇
+
+Cost curves an improved method for visualizing classifier performance
+代价曲线，在评价模型的时候可以与ROC结合一起评价
+
+Introduction_to_ROC_analysis
+ROC曲线的画法介绍
+
+On multi-class cost-sensitive learning
+没啥用
+
+The Foundations of Cost-Sensitive Learning
+与代价曲线类似，损失函数可以加入代价评估

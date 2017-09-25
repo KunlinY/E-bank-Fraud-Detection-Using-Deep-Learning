@@ -1,0 +1,14 @@
+A case-based reasoning model that uses preference theory functions
+偏好函数 过泛化
+
+A hybrid approach to integrate genetic algorithm into dual scoring model in enhancing the performance of credit scoring model
+信誉的两个角度度量 KS曲线
+
+A new dynamic modeling framework for credit risk assessment
+提出在线学习概念，提供历史数据影响因素的判定方案
+
+An experimental comparison of classification algorithms for imbalanced credit scoring data sets
+没啥用
+
+Classification Restricted Boltzmann Machine for comprehensible credit scoring model
+受限分类玻尔兹曼机
